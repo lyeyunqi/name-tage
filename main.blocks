@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables></variables><block type="device_forever" id="~1bxLU0GwzmV1IcCKzwS" x="0" y="0"><statement name="HANDLER"><block type="device_print_message" id="vgFW6:qLp0r-@HJ9Cj;9"><value name="text"><shadow type="text" id="nCUkPk}Ax/vXfr2sXJ{B"><field name="TEXT">Microbit</field></shadow></value><next><block type="device_print_message" id="Re2i0Z-j.5wut-j@#wx0"><value name="text"><shadow type="text" id="+KkCPT4@hQ#QQ,CFCR]7"><field name="TEXT">Say hi</field></shadow></value><next><block type="device_show_leds" id="Xs]noeI5wyflA#NnA;m$"><field name="LEDS">`
+        # . . . # 
+        # # . # # 
+        # . # . # 
+        # . . . # 
+        # . . . #
+        `</field></block></next></block></next></block></statement></block></xml>
